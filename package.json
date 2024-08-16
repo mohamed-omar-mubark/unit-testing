@@ -4,7 +4,7 @@
   "description": "Unit test for 10 random functions",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/mohamed-omar-mubark/unit-testing#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.4",
+    "typescript": "^5.5.4"
   }
 }
