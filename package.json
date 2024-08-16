@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit test for 10 random functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamed-omar-mubark/unit-testing.git"
+  },
+  "keywords": [
+    "unit test"
+  ],
+  "author": "mohamed.omar.mubark@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamed-omar-mubark/unit-testing/issues"
+  },
+  "homepage": "https://github.com/mohamed-omar-mubark/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
